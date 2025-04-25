@@ -2,8 +2,13 @@
 
 > A human-in-the-loop AI system for forecasting fuel demand, recommending pricing strategies, and checking compliance — built with OpenAI, LangChain, LangGraph, XGBoost, and Streamlit.
 
+## 📊 Price Margin Tradeoff
 ![Tradeoff Chart](docs/price_margin_tradeoff.png)
+
+## 📊 Margin Over Time
 ![Margin Over Time](docs/margin_over_time.png)
+
+## 📊 Fuel Pricing Assistant Demo
 ![Demo](demo/fuel_pricing_assistant_demo.jpg)
 
 ---
