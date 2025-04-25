@@ -42,6 +42,8 @@ This is a modular, enterprise-grade AI pricing assistant inspired by real-world 
          v                                    v
      [ Streamlit UI: Human Loop ] <---------- [ Save Scenario ]
 ```
+
+## 📊 Architecture
 ![Architecture](docs/system_architecture.png)
 ---
 
@@ -69,7 +71,12 @@ This is a modular, enterprise-grade AI pricing assistant inspired by real-world 
 - 💾 Save and audit scenarios for pricing reviews
 - 🧠 LangGraph-based reasoning agent (modular & memory-ready)
 
+## 📊 Slide
 ![Slide](demo/slide.jpg)
+
+## 📊 ML Flow
+
+![MLFlow](demo/ml_flow.jpg)
 ---
 
 ## 🧪 Run Locally
